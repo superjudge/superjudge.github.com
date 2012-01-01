@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Functional and Simple]]></title>
+  <link href="http://superjudge.github.com/atom.xml" rel="self"/>
+  <link href="http://superjudge.github.com/"/>
+  <updated>2012-01-01T13:45:29+01:00</updated>
+  <id>http://superjudge.github.com/</id>
+  <author>
+    <name><![CDATA[Johan Liseborn]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
